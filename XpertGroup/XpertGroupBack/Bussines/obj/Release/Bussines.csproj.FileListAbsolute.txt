@@ -1,0 +1,5 @@
+c:\users\gonz111499\source\repos\XpertGroupBack\Bussines\bin\Release\Bussines.dll
+c:\users\gonz111499\source\repos\XpertGroupBack\Bussines\bin\Release\Bussines.pdb
+c:\users\gonz111499\source\repos\XpertGroupBack\Bussines\obj\Release\Bussines.csproj.CoreCompileInputs.cache
+c:\users\gonz111499\source\repos\XpertGroupBack\Bussines\obj\Release\Bussines.dll
+c:\users\gonz111499\source\repos\XpertGroupBack\Bussines\obj\Release\Bussines.pdb

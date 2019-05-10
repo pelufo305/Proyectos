@@ -1,0 +1,9 @@
+c:\users\gonz111499\source\repos\XpertGroupBack\XpertGroupBusiness\bin\Debug\netstandard2.0\XpertGroupBusiness.deps.json
+c:\users\gonz111499\source\repos\XpertGroupBack\XpertGroupBusiness\bin\Debug\netstandard2.0\XpertGroupBusiness.dll
+c:\users\gonz111499\source\repos\XpertGroupBack\XpertGroupBusiness\bin\Debug\netstandard2.0\XpertGroupBusiness.pdb
+c:\users\gonz111499\source\repos\XpertGroupBack\XpertGroupBusiness\obj\Debug\netstandard2.0\XpertGroupBusiness.csprojAssemblyReference.cache
+c:\users\gonz111499\source\repos\XpertGroupBack\XpertGroupBusiness\obj\Debug\netstandard2.0\XpertGroupBusiness.csproj.CoreCompileInputs.cache
+c:\users\gonz111499\source\repos\XpertGroupBack\XpertGroupBusiness\obj\Debug\netstandard2.0\XpertGroupBusiness.AssemblyInfoInputs.cache
+c:\users\gonz111499\source\repos\XpertGroupBack\XpertGroupBusiness\obj\Debug\netstandard2.0\XpertGroupBusiness.AssemblyInfo.cs
+c:\users\gonz111499\source\repos\XpertGroupBack\XpertGroupBusiness\obj\Debug\netstandard2.0\XpertGroupBusiness.dll
+c:\users\gonz111499\source\repos\XpertGroupBack\XpertGroupBusiness\obj\Debug\netstandard2.0\XpertGroupBusiness.pdb
